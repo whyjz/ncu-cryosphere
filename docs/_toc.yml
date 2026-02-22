@@ -1,0 +1,15 @@
+format: jb-book
+root: index
+parts:
+  - caption: 概覽
+    chapters:
+    - file: syllabus
+    
+  # - caption: 大綱
+  #   chapters:
+  #   - file: outlines/lecture1
+  #   - file: outlines/lecture2
+  #   - file: outlines/lecture3
+  #   - file: outlines/lecture4
+  #   - file: outlines/lecture5
+  #   - file: outlines/lecture6
