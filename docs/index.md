@@ -4,7 +4,7 @@
 
 ### 授課人員 ###
 
-[鄭懷傑](https://whyjz.github.io/) (Whyjay Zheng), whyjz@csrsr.ncu.edu.tw, 太空及遙測研究中心 | 台灣極地研究中心
+[鄭懷傑](https://www.ncu-cryosensing.org/) (Whyjay Zheng), whyjz@csrsr.ncu.edu.tw, 太空及遙測研究中心 | 台灣極地研究中心
 
 ### 時間與地點
 
